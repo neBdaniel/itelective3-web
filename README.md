@@ -4,7 +4,7 @@
 ![](images/verdon parc.jpg)
 ## WordPress
 <p>
-  <img src="image/wplogo.png" width="220" height="240" />  
+  <img src="images/wplogo.png" width="220" height="240" />  
 </p>
 ![](image/wplogo.png)
 ### Hotel Reservation System
