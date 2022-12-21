@@ -1,7 +1,9 @@
 # itelective3-web
 
 # Verdon Parc Condo
-<img src="images/verdon parc.jpg" width="300" height="240" />  
+<p>
+<img src="images/verdon parc.jpg" width="300" height="240" /> 
+</p>
 ## WordPress
 <p>
   <img src="images/wplogo.png" width="220" height="240" />  
